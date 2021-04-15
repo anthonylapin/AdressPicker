@@ -1,8 +1,6 @@
 # AdressPicker
 
-QT program, which display following window and after pressing "Save" button writes appends result to address.csv file (so it adds a line after each pressing 'save button'. A window should then clear a content and be ready for next data;
-
-![alt text](C:\Users\Anton\Desktop\address-picker.png)
+QT program, which display window with address form and after pressing "Save" button writes appends result to address.csv file (so it adds a line after each pressing 'save button'. A window should then clear a content and be ready for next data;
 
 a file should have *.csv format:
 
